@@ -1,0 +1,517 @@
+{
+    "metadata": {
+        "style_distribution": {
+            "font_counts": [
+                [
+                    "8.0_4_Theinhardt-Regular_2236191",
+                    146
+                ],
+                [
+                    "8.0_20_Theinhardt-Bold_2236191",
+                    52
+                ],
+                [
+                    "8.0_20_Theinhardt-Bold_16777215",
+                    12
+                ],
+                [
+                    "14.0_20_Theinhardt-Bold_16777215",
+                    9
+                ],
+                [
+                    "8.0_4_Theinhardt-Regular_255",
+                    6
+                ],
+                [
+                    "12.0_20_Klavika-Bold_2236191",
+                    6
+                ],
+                [
+                    "10.0_20_Theinhardt-Bold_2236191",
+                    3
+                ],
+                [
+                    "14.0_4_Theinhardt-Regular_2236191",
+                    2
+                ],
+                [
+                    "10.0_4_Theinhardt-Regular_2236191",
+                    1
+                ],
+                [
+                    "22.0_20_Klavika-Bold_2236191",
+                    1
+                ],
+                [
+                    "12.0_20_Klavika-Bold_16777215",
+                    1
+                ]
+            ],
+            "styles": {
+                "10.0_4_Theinhardt-Regular_2236191": {
+                    "size": 10.0,
+                    "flags": 4,
+                    "font": "Theinhardt-Regular",
+                    "color": 2236191,
+                    "count": 1
+                },
+                "10.0_20_Theinhardt-Bold_2236191": {
+                    "size": 10.0,
+                    "flags": 20,
+                    "font": "Theinhardt-Bold",
+                    "color": 2236191,
+                    "count": 3
+                },
+                "8.0_4_Theinhardt-Regular_2236191": {
+                    "size": 8.0,
+                    "flags": 4,
+                    "font": "Theinhardt-Regular",
+                    "color": 2236191,
+                    "count": 146
+                },
+                "14.0_20_Theinhardt-Bold_16777215": {
+                    "size": 14.0,
+                    "flags": 20,
+                    "font": "Theinhardt-Bold",
+                    "color": 16777215,
+                    "count": 9
+                },
+                "22.0_20_Klavika-Bold_2236191": {
+                    "size": 22.0,
+                    "flags": 20,
+                    "font": "Klavika-Bold",
+                    "color": 2236191,
+                    "count": 1
+                },
+                "14.0_4_Theinhardt-Regular_2236191": {
+                    "size": 14.0,
+                    "flags": 4,
+                    "font": "Theinhardt-Regular",
+                    "color": 2236191,
+                    "count": 2
+                },
+                "8.0_4_Theinhardt-Regular_255": {
+                    "size": 8.0,
+                    "flags": 4,
+                    "font": "Theinhardt-Regular",
+                    "color": 255,
+                    "count": 6
+                },
+                "8.0_20_Theinhardt-Bold_2236191": {
+                    "size": 8.0,
+                    "flags": 20,
+                    "font": "Theinhardt-Bold",
+                    "color": 2236191,
+                    "count": 52
+                },
+                "12.0_20_Klavika-Bold_2236191": {
+                    "size": 12.0,
+                    "flags": 20,
+                    "font": "Klavika-Bold",
+                    "color": 2236191,
+                    "count": 6
+                },
+                "12.0_20_Klavika-Bold_16777215": {
+                    "size": 12.0,
+                    "flags": 20,
+                    "font": "Klavika-Bold",
+                    "color": 16777215,
+                    "count": 1
+                },
+                "8.0_20_Theinhardt-Bold_16777215": {
+                    "size": 8.0,
+                    "flags": 20,
+                    "font": "Theinhardt-Bold",
+                    "color": 16777215,
+                    "count": 12
+                }
+            },
+            "font_stats": {
+                "max_font": 22.40250015258789,
+                "min_font": 8.002500534057617,
+                "common_color": 2236191,
+                "common_font": "Theinhardt-Regular",
+                "common_size": 8.002500534057617
+            },
+            "bbox": [
+                22.68000030517578,
+                607.2136840820312,
+                574.208984375,
+                615.2161865234375
+            ],
+            "page_w": 595.275634765625,
+            "page_h": 841.8897705078125
+        }
+    },
+    "elements": [
+        {
+            "page_number": 0,
+            "block_number": 2,
+            "type": 0,
+            "lines": [
+                {
+                    "spans": [
+                        {
+                            "size": 9.997499465942383,
+                            "flags": 4,
+                            "font": "Theinhardt-Regular",
+                            "color": 2236191,
+                            "ascender": 0.8017578125,
+                            "descender": -0.1982421875,
+                            "text": "KEY INFORMATION DOCUMENT",
+                            "origin": [
+                                249.4499969482422,
+                                36.8597412109375
+                            ],
+                            "bbox": [
+                                249.4499969482422,
+                                28.844167709350586,
+                                388.27130126953125,
+                                38.84166717529297
+                            ]
+                        }
+                    ],
+                    "wmode": 0,
+                    "dir": [
+                        1.0,
+                        0.0
+                    ],
+                    "bbox": [
+                        249.4499969482422,
+                        28.844167709350586,
+                        388.27130126953125,
+                        38.84166717529297
+                    ]
+                },
+                {
+                    "spans": [
+                        {
+                            "size": 9.997499465942383,
+                            "flags": 20,
+                            "font": "Theinhardt-Bold",
+                            "color": 2236191,
+                            "ascender": 0.8017578125,
+                            "descender": -0.1982421875,
+                            "text": "Purpose",
+                            "origin": [
+                                249.4499969482422,
+                                50.69976806640625
+                            ],
+                            "bbox": [
+                                249.4499969482422,
+                                42.68419647216797,
+                                287.41949462890625,
+                                52.68169403076172
+                            ]
+                        }
+                    ],
+                    "wmode": 0,
+                    "dir": [
+                        1.0,
+                        0.0
+                    ],
+                    "bbox": [
+                        249.4499969482422,
+                        42.68419647216797,
+                        287.41949462890625,
+                        52.68169403076172
+                    ]
+                },
+                {
+                    "spans": [
+                        {
+                            "size": 8.002500534057617,
+                            "flags": 4,
+                            "font": "Theinhardt-Regular",
+                            "color": 2236191,
+                            "ascender": 0.8017578125,
+                            "descender": -0.1982421875,
+                            "text": "This document provides you with key information about this investment fund. It is not marketing ",
+                            "origin": [
+                                249.4499969482422,
+                                61.4097900390625
+                            ],
+                            "bbox": [
+                                249.4499969482422,
+                                54.99372100830078,
+                                574.2026977539062,
+                                62.99622344970703
+                            ]
+                        }
+                    ],
+                    "wmode": 0,
+                    "dir": [
+                        1.0,
+                        0.0
+                    ],
+                    "bbox": [
+                        249.4499969482422,
+                        54.99372100830078,
+                        574.2026977539062,
+                        62.99622344970703
+                    ]
+                },
+                {
+                    "spans": [
+                        {
+                            "size": 8.002500534057617,
+                            "flags": 4,
+                            "font": "Theinhardt-Regular",
+                            "color": 2236191,
+                            "ascender": 0.8017578125,
+                            "descender": -0.1982421875,
+                            "text": "material. The information is required by law to help you understand the nature, risks, costs, ",
+                            "origin": [
+                                249.4499969482422,
+                                70.20977783203125
+                            ],
+                            "bbox": [
+                                249.4499969482422,
+                                63.79370880126953,
+                                574.2003784179688,
+                                71.79621124267578
+                            ]
+                        }
+                    ],
+                    "wmode": 0,
+                    "dir": [
+                        1.0,
+                        0.0
+                    ],
+                    "bbox": [
+                        249.4499969482422,
+                        63.79370880126953,
+                        574.2003784179688,
+                        71.79621124267578
+                    ]
+                },
+                {
+                    "spans": [
+                        {
+                            "size": 8.002500534057617,
+                            "flags": 4,
+                            "font": "Theinhardt-Regular",
+                            "color": 2236191,
+                            "ascender": 0.8017578125,
+                            "descender": -0.1982421875,
+                            "text": "potential gains and losses of this portfolio and to help you compare it with other investment ",
+                            "origin": [
+                                249.4499969482422,
+                                79.009765625
+                            ],
+                            "bbox": [
+                                249.4499969482422,
+                                72.59369659423828,
+                                574.2056884765625,
+                                80.59619903564453
+                            ]
+                        }
+                    ],
+                    "wmode": 0,
+                    "dir": [
+                        1.0,
+                        0.0
+                    ],
+                    "bbox": [
+                        249.4499969482422,
+                        72.59369659423828,
+                        574.2056884765625,
+                        80.59619903564453
+                    ]
+                },
+                {
+                    "spans": [
+                        {
+                            "size": 8.002500534057617,
+                            "flags": 4,
+                            "font": "Theinhardt-Regular",
+                            "color": 2236191,
+                            "ascender": 0.8017578125,
+                            "descender": -0.1982421875,
+                            "text": "funds.",
+                            "origin": [
+                                249.4499969482422,
+                                87.80975341796875
+                            ],
+                            "bbox": [
+                                249.4499969482422,
+                                81.39368438720703,
+                                270.1279602050781,
+                                89.39618682861328
+                            ]
+                        }
+                    ],
+                    "wmode": 0,
+                    "dir": [
+                        1.0,
+                        0.0
+                    ],
+                    "bbox": [
+                        249.4499969482422,
+                        81.39368438720703,
+                        270.1279602050781,
+                        89.39618682861328
+                    ]
+                }
+            ],
+            "block_styles": {
+                "font_counts": [
+                    [
+                        "8.0_4_Theinhardt-Regular_2236191",
+                        4
+                    ],
+                    [
+                        "10.0_4_Theinhardt-Regular_2236191",
+                        1
+                    ],
+                    [
+                        "10.0_20_Theinhardt-Bold_2236191",
+                        1
+                    ]
+                ],
+                "styles": {
+                    "10.0_4_Theinhardt-Regular_2236191": {
+                        "size": 10.0,
+                        "flags": 4,
+                        "font": "Theinhardt-Regular",
+                        "color": 2236191,
+                        "count": 1
+                    },
+                    "10.0_20_Theinhardt-Bold_2236191": {
+                        "size": 10.0,
+                        "flags": 20,
+                        "font": "Theinhardt-Bold",
+                        "color": 2236191,
+                        "count": 1
+                    },
+                    "8.0_4_Theinhardt-Regular_2236191": {
+                        "size": 8.0,
+                        "flags": 4,
+                        "font": "Theinhardt-Regular",
+                        "color": 2236191,
+                        "count": 4
+                    }
+                },
+                "font_stats": {
+                    "bold": false,
+                    "italic": false,
+                    "font_name": "Theinhardt-Regular",
+                    "max_font": 9.997499465942383,
+                    "min_font": 8.002500534057617,
+                    "common_color": 2236191,
+                    "common_font": "Theinhardt-Regular",
+                    "common_size": 8.002500534057617
+                },
+                "bbox": [
+                    249.4499969482422,
+                    28.844167709350586,
+                    574.2056884765625,
+                    89.39618682861328
+                ]
+            },
+            "line_styles": {
+                "0": {
+                    "text": "KEY INFORMATION DOCUMENT",
+                    "style": [
+                        [
+                            10,
+                            "Theinhardt-Regular",
+                            2236191
+                        ]
+                    ],
+                    "unique_font": true,
+                    "bbox": [
+                        249.4499969482422,
+                        28.844167709350586,
+                        388.27130126953125,
+                        38.84166717529297
+                    ]
+                },
+                "1": {
+                    "text": "Purpose",
+                    "style": [
+                        [
+                            10,
+                            "Theinhardt-Bold",
+                            2236191
+                        ]
+                    ],
+                    "unique_font": true,
+                    "bbox": [
+                        249.4499969482422,
+                        42.68419647216797,
+                        287.41949462890625,
+                        52.68169403076172
+                    ]
+                },
+                "2": {
+                    "text": "This document provides you with key information about this investment fund. It is not marketing ",
+                    "style": [
+                        [
+                            8,
+                            "Theinhardt-Regular",
+                            2236191
+                        ]
+                    ],
+                    "unique_font": true,
+                    "bbox": [
+                        249.4499969482422,
+                        54.99372100830078,
+                        574.2026977539062,
+                        62.99622344970703
+                    ]
+                },
+                "3": {
+                    "text": "material. The information is required by law to help you understand the nature, risks, costs, ",
+                    "style": [
+                        [
+                            8,
+                            "Theinhardt-Regular",
+                            2236191
+                        ]
+                    ],
+                    "unique_font": true,
+                    "bbox": [
+                        249.4499969482422,
+                        63.79370880126953,
+                        574.2003784179688,
+                        71.79621124267578
+                    ]
+                },
+                "4": {
+                    "text": "potential gains and losses of this portfolio and to help you compare it with other investment ",
+                    "style": [
+                        [
+                            8,
+                            "Theinhardt-Regular",
+                            2236191
+                        ]
+                    ],
+                    "unique_font": true,
+                    "bbox": [
+                        249.4499969482422,
+                        72.59369659423828,
+                        574.2056884765625,
+                        80.59619903564453
+                    ]
+                },
+                "5": {
+                    "text": "funds.",
+                    "style": [
+                        [
+                            8,
+                            "Theinhardt-Regular",
+                            2236191
+                        ]
+                    ],
+                    "unique_font": true,
+                    "bbox": [
+                        249.4499969482422,
+                        81.39368438720703,
+                        270.1279602050781,
+                        89.39618682861328
+                    ]
+                }
+            },
+            "page_info": {
+                "this": 
